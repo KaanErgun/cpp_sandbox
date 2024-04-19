@@ -1,0 +1,5 @@
+{
+    "inference.model": "custom",
+    "inference.endpoint": "http://local:11434",
+    "inference.custom.model": "llama3"
+}
