@@ -1,0 +1,5 @@
+# Ignore all files without an extension
+*.out
+
+# Ignore vscode settings
+.vscode/
