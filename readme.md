@@ -73,9 +73,9 @@ To run these projects locally:
 
 1. Navigate to the respective project folder.
 2. Compile the source file using C++17 standard:
-    g++ -std=c++17 your_program.cpp -o your_program
+    g++ -std=c++17 <your_program>.cpp -o <your_program>.out
 3. Execute the program:
-    ./your_program
+    ./<your_program>.out
 
 
 ## Contributing
