@@ -1,5 +1,6 @@
 # Ignore all files without an extension
 *.out
+*.txt
 
 # Ignore vscode settings
 .vscode/
